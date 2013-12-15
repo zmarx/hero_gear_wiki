@@ -25,6 +25,7 @@ Plattform:
 * [Zuma](http://youtu.be/OB9RULrlia0?t=16s): interessante Möglichkeit!
 * Minesweeper: interessante Möglichkeit!
 * [Pipe Mania](http://www.youtube.com/watch?v=WpqzX6iW7qk): interessante Möglichkeit!
+* Kein Puzzle, aber Snake!? :)
 
 ## Szenario Alternativen
 
