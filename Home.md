@@ -43,6 +43,7 @@ Plattform:
 * Roboter
 * Dinosaurier
 * Stadt/Verkehr
+* Superhelden
 
 ## Dungeon Raid Alternativen
 * Puzzle Craft
