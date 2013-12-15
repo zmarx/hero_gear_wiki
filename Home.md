@@ -5,7 +5,7 @@ Ziel: eine süchtigmachende Kombination aus Puzzle und Rollenspielelementen - an
 ## Puzzle Alternativen
 
 ### Tilematching
-* Bejeweled
+* Bejeweled ( [Candy Crush Saga] (http://youtu.be/Ew2rNYOKW9k?t=9m50s) )
 * Tetris
 * Klax
 * [Lumines](http://youtu.be/RFP5VM8nnyM?t=7m57s)
