@@ -1,6 +1,9 @@
 # AwesomePuzzleRpg
 
-Ziel: eine süchtigmachende Kombination aus Puzzle und Rollenspielelementen - angelehnt an "Dungeon Raid"
+Ziel: 
+* eine süchtigmachende Kombination aus Puzzle und Rollenspielelementen 
+* angelehnt an "Dungeon Raid"
+* Microtransactions
 
 ## Puzzle Alternativen
 
