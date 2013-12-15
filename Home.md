@@ -46,17 +46,45 @@ Plattform:
 * Superhelden
 
 ## Dungeon Raid Alternativen
-* Puzzle Craft
-* Puzzle & Dragons
-* Dungeon Saga
-* WarGames: WOPR
-* Witch Wars
-* Samurai Puzzle Battle
-* Age of Puzzle
-* Puzzle Quest 2
-* Tower of Fortune
-* BraveSmart
-* Adventurer Workshop
+
+10000000 [Review ](http://toucharcade.com/2012/07/26/10000000-review/)
+10 Talismans Thread
+4 Elements - Puzzledom Thread
+Adventurer Workshop Review
+Age of Puzzle Thread
+Ancient Wonderland Deluxe Thread
+Angel Salvation Review
+Azkend 1&2 Review
+Call of Atlantis
+Castlevania: Puzzle Review
+ChronoSgear Thread
+Crystal Soul Thread
+Dungeon Raid Review
+Dungeon Saga Thread
+Heroes of Kalevala
+Jewel Fighter
+Legend Four
+Paradise Quest
+Pawn'd
+Puzzle Craft
+Puzzle Quest 2
+Puzzlevania
+RPG Puzzle
+Sorcerer of Fortune
+Samurai Puzzle Battle
+WarGames: WOPR
+Witch Wars
+Wizschool
+
+Other RPG-Hybrids
+
+BraveSmart
+Dragon Town
+King Cashing
+Princess Punt
+Sword & Poker 1&2
+Tower of Fortune
+Triple Town
 
 
 
