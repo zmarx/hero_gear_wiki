@@ -26,7 +26,24 @@ Plattform:
 * Minesweeper: interessante Möglichkeit!
 * [Pipe Mania](http://www.youtube.com/watch?v=WpqzX6iW7qk): interessante Möglichkeit!
 
-## Genre
+## Szenario Alternativen
+
+* Fantasy
+* Western
+* Piraten
+* Space
+* Horror, Zombies, Werwölfe, Dracula
+* Cyberspace
+* Wikinger
+* Erotik: lieber nicht.
+* Steinzeit/Dinosaurier
+* Absurd (Monty Python etc.)
+* Steampunk
+* Körper/Zellen/Bakterien/Viren
+* Roboter
+* Dinosaurier
+* Stadt/Verkehr
+
 
 
 
