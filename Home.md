@@ -44,6 +44,9 @@ Plattform:
 * Dinosaurier
 * Stadt/Verkehr
 
+## Dungeon Raid Alternativen
+* Puzzle Craft
+* Puzzle & Dragons
 
 
 
