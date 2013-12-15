@@ -47,7 +47,7 @@ Plattform:
 
 ## Dungeon Raid Alternativen
 
-* [Review](http://toucharcade.com/2012/07/26/10000000-review/)
+* 10000000 [Review](http://toucharcade.com/2012/07/26/10000000-review/)
 * 10 Talismans Thread
 * 4 Elements - Puzzledom Thread
 * Adventurer Workshop Review
