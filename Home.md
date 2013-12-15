@@ -78,13 +78,19 @@ Plattform:
 
 Other RPG-Hybrids
 
-*BraveSmart
-*Dragon Town
-*King Cashing
-*Princess Punt
-*Sword & Poker 1&2
-*Tower of Fortune
-*Triple Town
+* BraveSmart
+
+* Dragon Town
+
+* King Cashing
+
+* Princess Punt
+
+* Sword & Poker 1&2
+
+* Tower of Fortune
+
+* Triple Town
 
 
 
