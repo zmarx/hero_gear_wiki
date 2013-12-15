@@ -50,6 +50,14 @@ Plattform:
 * Puzzle & Dragons
 * Dungeon Saga
 * WarGames: WOPR
+* Witch Wars
+* Samurai Puzzle Battle
+* Age of Puzzle
+* Puzzle Quest 2
+* Tower of Fortune
+* BraveSmart
+* Adventurer Workshop
+
 
 
 
