@@ -47,6 +47,9 @@ Plattform:
 ## Dungeon Raid Alternativen
 * Puzzle Craft
 * Puzzle & Dragons
+* Dungeon Saga
+* WarGames: WOPR
+
 
 
 
