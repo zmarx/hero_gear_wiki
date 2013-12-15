@@ -2,6 +2,9 @@
 
 
 ## Puzzle Alternativen
+* Tetris
+* Klax
+* Lumines
 
 
 
