@@ -8,6 +8,8 @@ Ziel:
 
 * Microtransactions
 
+* Entwicklungszeitraum (ohne Planung): 3-5 Monate
+
 Plattform:
 
 * Android
