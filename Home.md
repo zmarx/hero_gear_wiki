@@ -9,7 +9,7 @@ Ziel: eine süchtigmachende Kombination aus Puzzle und Rollenspielelementen - an
 * Tetris
 * Klax
 * [Lumines](http://youtu.be/RFP5VM8nnyM?t=7m57s)
-* Zuma
+* [Zuma](http://youtu.be/OB9RULrlia0?t=16s)
 
 ### 
 
