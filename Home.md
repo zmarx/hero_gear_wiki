@@ -8,6 +8,12 @@ Ziel:
 
 * Microtransactions
 
+Plattform:
+
+* Android
+* iPhone/iPad
+* Facebook
+
 ## Puzzle Alternativen
 
 * Bejeweled ( [Candy Crush Saga](http://youtu.be/Ew2rNYOKW9k?t=9m50s) )
