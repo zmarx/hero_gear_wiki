@@ -22,11 +22,11 @@ Plattform:
 * Tetris
 * Klax
 * [Lumines](http://youtu.be/RFP5VM8nnyM?t=7m57s)
-* [Zuma](http://youtu.be/OB9RULrlia0?t=16s)
-* Minesweeper
-* [Pipe Mania](http://www.youtube.com/watch?v=WpqzX6iW7qk)
+* [Zuma](http://youtu.be/OB9RULrlia0?t=16s): interessante Möglichkeit!
+* Minesweeper: interessante Möglichkeit!
+* [Pipe Mania](http://www.youtube.com/watch?v=WpqzX6iW7qk): interessante Möglichkeit!
 
-### 
+## Genre
 
 
 
