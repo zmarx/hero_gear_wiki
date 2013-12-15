@@ -48,19 +48,19 @@ Plattform:
 ## Dungeon Raid Alternativen
 
 * [10000000](http://toucharcade.com/2012/07/26/10000000-review/)
-* 10 Talismans [Thread](http://forums.toucharcade.com/showthread.php?t=150969)
-* 4 Elements - Puzzledom Thread
-* Adventurer Workshop Review
-* Age of Puzzle Thread
-* Ancient Wonderland Deluxe Thread
-* Angel Salvation Review
-* Azkend 1&2 Review
+* [10 Talismans](http://forums.toucharcade.com/showthread.php?t=150969)
+* [4 Elements - Puzzledom](http://forums.toucharcade.com/showthread.php?t=18609)
+* [Adventurer Workshop](http://toucharcade.com/2012/05/25/adventurer-workshop-a-mercantile-take-on-matching/)
+* [Age of Puzzle](http://forums.toucharcade.com/showthread.php?t=23871)
+* [Ancient Wonderland Deluxe](http://forums.toucharcade.com/showthread.php?t=23466)
+* [Angel Salvation](http://toucharcade.com/2012/08/27/angel-salvation-review/)
+* [Azkend 1&2](http://toucharcade.com/2012/03/19/azkend-2-the-world-beneath-review/)
 * Call of Atlantis
-* Castlevania: Puzzle Review
-* ChronoSgear Thread
-* Crystal Soul Thread
-* Dungeon Raid Review
-* Dungeon Saga Thread
+* [Castlevania: Puzzle](http://toucharcade.com/2010/07/22/castlevania-puzzle-encore-of-the-night-review/)
+* [ChronoSgear](http://forums.toucharcade.com/showthread.php?t=66847)
+* [Crystal Soul](http://forums.toucharcade.com/showthread.php?t=83405)
+* [Dungeon Raid](http://toucharcade.com/2011/01/21/dungeon-raid-review/)
+* [Dungeon Saga](http://forums.toucharcade.com/showthread.php?t=98913)
 * Heroes of Kalevala
 * Jewel Fighter
 * Legend Four
@@ -78,13 +78,13 @@ Plattform:
 
 Other RPG-Hybrids
 
-BraveSmart
-Dragon Town
-King Cashing
-Princess Punt
-Sword & Poker 1&2
-Tower of Fortune
-Triple Town
+*BraveSmart
+*Dragon Town
+*King Cashing
+*Princess Punt
+*Sword & Poker 1&2
+*Tower of Fortune
+*Triple Town
 
 
 
