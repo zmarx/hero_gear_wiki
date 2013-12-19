@@ -29,6 +29,7 @@ Plattform:
 * [Pipe Mania](http://www.youtube.com/watch?v=WpqzX6iW7qk): interessante Möglichkeit!
 * Kein Puzzle, aber Snake!? :)
 * Super Puzzle Fighter II Turbo
+* [Meteos](http://youtu.be/vb-UbpOsKew?t=1m55s)
 
 
 ## Szenario Alternativen
