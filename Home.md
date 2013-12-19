@@ -20,6 +20,7 @@ Plattform:
 
 * Bejeweled ( [Candy Crush Saga](http://youtu.be/Ew2rNYOKW9k?t=9m50s) )
 * Bejeweled Twist (man dreht hier Viererblöcke)
+* Cogs
 * Tetris
 * Klax
 * [Lumines](http://youtu.be/RFP5VM8nnyM?t=7m57s)
