@@ -26,6 +26,8 @@ Plattform:
 * Minesweeper: interessante Möglichkeit!
 * [Pipe Mania](http://www.youtube.com/watch?v=WpqzX6iW7qk): interessante Möglichkeit!
 * Kein Puzzle, aber Snake!? :)
+* Super Puzzle Fighter II Turbo
+
 
 ## Szenario Alternativen
 
