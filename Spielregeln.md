@@ -13,6 +13,7 @@ Es gibt 5 Arten von Spielsteinen:
 
 ###Armour
 
+* Attribute: keine.
 * Aufsammeln: mit 2 anderen Armoursteinen.
 * Resultat: Armour wird wieder aufgefüllt.
 * Wozu: Wehrt Angriffe von Monstern ab.
@@ -20,8 +21,13 @@ Es gibt 5 Arten von Spielsteinen:
 
 ###Superpower
 
+Attribute: keine.
+
 * Aufsammeln: mit 2 anderen Superpowersteinen.
 * Resultat: Superpower wird wieder aufgefüllt. 
 * Wozu: Der Spieler besitzt eine Reihe von Superfähigkeiten, die eine bestimmte Menge an Superpower benötigen. Verwendet er die Superfähigkeit, wird ihm die Superpower abgezogen. Er bekommt bei jedem Levelaufstieg eine neue Superfähigkeit. Ist die Maximalanzahl an Fähigkeiten begrenzt? Was passiert, wenn er die Maximalanzahl überschreitet?
 * Wenn voll: Kann er halt alle seine Fähigkeiten verwenden.
 
+###Monster
+
+* Aufsammeln: mit 2 anderen Monstern (Frage: Geht das, gibt es so etwas wie base damage?) oder Waffen.
