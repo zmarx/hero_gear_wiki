@@ -16,7 +16,7 @@ Es gibt 5 Arten von Spielsteinen:
 
 * Attribute: keine.
 * Aufsammeln: mit 2 anderen Armoursteinen.
-* Resultat: Armour wird wieder aufgefüllt.
+* Resultat: *Armour Points* werden wieder aufgefüllt.
 * Wozu: Wehrt Angriffe von Monstern ab.
 * Wenn voll: *Frage: Darf sich der Spieler einen Ausrüstungsgegenstand aussuchen?*
 
