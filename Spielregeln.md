@@ -12,13 +12,11 @@ Es gibt 5 Arten von Spielsteinen:
 * Health
 
 ###Armour
-Aufsammeln: mit 2 anderen Armoursteinen.
 
-Resultat: Armour wird wieder aufgefüllt.
-
-Wozu: Wehrt Angriffe von Monstern ab.
-
-Wenn voll: Darf sich der Spieler einen Ausrüstungsgegenstand aussuchen?
+* Aufsammeln: mit 2 anderen Armoursteinen.
+* Resultat: Armour wird wieder aufgefüllt.
+* Wozu: Wehrt Angriffe von Monstern ab.
+* Wenn voll: Darf sich der Spieler einen Ausrüstungsgegenstand aussuchen?
 
 ###Superpower
 Aufsammeln: mit 2 anderen Superpowersteinen.
