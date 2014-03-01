@@ -1,6 +1,5 @@
 # AwesomePuzzleRpg
-
-[Spielablauf]
+[[Spielregeln]]
 
 Ziel: 
 
