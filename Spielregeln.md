@@ -1,7 +1,7 @@
 ##Ablauf
 Der Spieler und der Computer ziehen abwechselnd. Der Spieler sammelt in seiner Runde nach gewissen Regeln Steine auf. 
 
-Dann kommt der Computer dran. Alle Monster, die am Bildschirm sind, fügen dem Spieler IHREN **Damage Points** gemäß Schaden zu. Diese werden zunächst von den **Armour Points** DES SPIELERS abgezogen. Sinken die **Armour Points** DES SPIELERS auf 0, werden die noch verbleibenden **Damage Points** der Angreifer von der **Health** des Spielers abgezogen.
+Dann kommt der Computer dran. Alle Monster, die am Bildschirm sind, fügen dem Spieler ihren **Damage Points** gemäß Schaden zu. Diese werden zunächst von den **Armour Points** des Spielers abgezogen. Sinken die **Armour Points** des Spielers auf 0, werden die noch verbleibenden **Damage Points** der Angreifer von der **Health** des Spielers abgezogen.
 
 ##Spielsteine
 Es gibt 5 Arten von Spielsteinen:
@@ -24,7 +24,7 @@ Es gibt 5 Arten von Spielsteinen:
 
 * Attribute: keine.
 * Aufsammeln: mit 2 anderen Superpowersteinen.
-* Resultat: Superpower wird wieder aufgefüllt. 
+* Resultat: *Superpower* wird wieder aufgefüllt. 
 * Wozu: Der Spieler besitzt eine Reihe von Superfähigkeiten, die eine bestimmte Menge an Superpower benötigen. Verwendet er die Superfähigkeit, wird ihm die Superpower abgezogen. Er bekommt bei jedem Levelaufstieg eine neue Superfähigkeit. Frage: Ist die Maximalanzahl an Fähigkeiten begrenzt? Frage: Was passiert, wenn er die Maximalanzahl überschreitet?
 * Wenn voll: Kann er halt alle seine Fähigkeiten verwenden.
 
