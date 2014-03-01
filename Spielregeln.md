@@ -18,7 +18,7 @@ Es gibt 5 Arten von Spielsteinen:
 * Aufsammeln: mit 2 anderen Armoursteinen.
 * Resultat: Armour wird wieder aufgefüllt.
 * Wozu: Wehrt Angriffe von Monstern ab.
-* Wenn voll: Frage: Darf sich der Spieler einen Ausrüstungsgegenstand aussuchen?
+* Wenn voll: *Frage: Darf sich der Spieler einen Ausrüstungsgegenstand aussuchen?*
 
 ###Superpower
 
