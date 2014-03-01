@@ -16,7 +16,7 @@ Es gibt 5 Arten von Spielsteinen:
 
 * Attribute: keine.
 * Aufsammeln: mit 2 anderen Armoursteinen.
-* Resultat: *Armour Points* werden wieder aufgefüllt.
+* Resultat: **Armour Points** werden wieder aufgefüllt.
 * Wozu: Wehrt Angriffe von Monstern ab.
 * Wenn voll: *Frage: Darf sich der Spieler einen Ausrüstungsgegenstand aussuchen?*
 
@@ -30,7 +30,7 @@ Es gibt 5 Arten von Spielsteinen:
 
 ###Monster
 
-* Attribute: Damage Points, Armour Points, Health Points, Rüstung, Waffe
+* Attribute: **Damage Points**, **Armour Points**, **Health Points**, Rüstung, Waffe
 * Aufsammeln: mit 2 anderen Monstern (*Frage: Geht das, gibt es so etwas wie base damage?*) bzw. Waffen.
 * Resultat: Die Monster verschwinden, sind keine Gefahr mehr, lassen eine Rüstung oder eine Waffe fallen, die der Spieler dann verwenden kann. Rüstung erhöht die Maximalarmour des Spielers. Waffe erweitert das Waffenarsenal des Spielers (nicht Superpower!).
 
@@ -38,7 +38,7 @@ Es gibt 5 Arten von Spielsteinen:
 
 Das sind die Waffen, die dem Spieler zur Verfügung stehen, Faustschlag, Fußtritt, Schwerthieb, Laserblick, Druckwelle, was auch immer, können im Laufe des Spieles verbessert&erweitert werden.
 
-* Attribute: Damage Points
+* Attribute: **Damage Points**
 * Aufsammeln: mit 2 anderen Monstern bzw. Waffen.
 * Resultat: erledigt die Monster
 
