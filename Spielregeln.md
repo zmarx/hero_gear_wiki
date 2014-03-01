@@ -6,3 +6,5 @@ Es gibt 5 Arten von Spielsteinen:
 * Monster
 * Weapon
 * Health
+
+###Armour
