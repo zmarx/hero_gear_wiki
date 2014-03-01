@@ -32,3 +32,19 @@ Es gibt 5 Arten von Spielsteinen:
 * Attribute: Damage Points, Armour Points, Health Points, Rüstung, Waffe
 * Aufsammeln: mit 2 anderen Monstern (Frage: Geht das, gibt es so etwas wie base damage?) bzw. Waffen.
 * Resultat: Die Monster verschwinden, sind keine Gefahr mehr, lassen eine Rüstung oder eine Waffe fallen, die der Spieler dann verwenden kann.
+
+###Weapon
+
+Das sind die Waffen, die dem Spieler zur Verfügung stehen, Faustschlag, Fußtritt, Schwerthieb, Laserblick, Druckwelle, was auch immer, können im Laufe des Spieles verbessert werden.
+
+* Attribute: Damage Points
+* Aufsammeln: mit 2 anderen Monstern bzw. Waffen.
+* Resultat: erledigt die Monster
+
+###Health
+
+* Attribute: Keine
+* Aufsammeln: mit 2 anderen Healthsteine
+* Resultat: hält den Spieler vom eher unangenehmen Sterben ab.
+
+Frage: Wir haben nichts wie Experiencepunkte. Ist das gut?
