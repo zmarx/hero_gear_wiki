@@ -24,7 +24,7 @@ Es gibt 5 Arten von Spielsteinen:
 
 * Attribute: keine.
 * Aufsammeln: mit 2 anderen Superpowersteinen.
-* Resultat: *Superpower* wird wieder aufgefüllt. 
+* Resultat: **Superpower** wird wieder aufgefüllt. 
 * Wozu: Der Spieler besitzt eine Reihe von Superfähigkeiten, die eine bestimmte Menge an Superpower benötigen. Verwendet er die Superfähigkeit, wird ihm die Superpower abgezogen. Er bekommt bei jedem Levelaufstieg eine neue Superfähigkeit. Frage: Ist die Maximalanzahl an Fähigkeiten begrenzt? Frage: Was passiert, wenn er die Maximalanzahl überschreitet?
 * Wenn voll: Kann er halt alle seine Fähigkeiten verwenden.
 
