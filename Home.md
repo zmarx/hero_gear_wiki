@@ -1,5 +1,7 @@
 # AwesomePuzzleRpg
 
+[Spielablauf]
+
 Ziel: 
 
 * eine süchtigmachende Kombination aus Puzzle und Rollenspielelementen 
