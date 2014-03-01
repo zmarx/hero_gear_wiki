@@ -47,4 +47,4 @@ Das sind die Waffen, die dem Spieler zur Verfügung stehen, Faustschlag, Fußtri
 * Aufsammeln: mit 2 anderen Healthsteine
 * Resultat: hält den Spieler vom eher unangenehmen Sterben ab.
 
-Frage: Wir haben nichts wie Experiencepunkte. Ist das gut?
+Frage: Wir haben nichts wie Experiencepunkte, also Punkte die man für getötete Monster erhält. Ist das gut?
