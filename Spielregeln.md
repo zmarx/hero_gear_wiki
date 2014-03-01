@@ -1,5 +1,6 @@
 ##Ablauf
 Der Spieler und der Computer ziehen abwechselnd. Der Spieler sammelt in seiner Runde nach gewissen Regeln Steine auf. 
+
 Dann kommt der Computer dran. Alle Monster, die am Bildschirm sind, fügen dem Spieler IHREN "Damage Points" gemäß Schaden zu. Diese werden zunächst von den "Armour Points" DES SPIELERS abgezogen. Sinken die "Armour Points" DES SPIELERS auf 0, werden die noch verbleibenden Damage Points der Angreifer von der Health des Spielers abgezogen.
 
 ##Spielsteine
