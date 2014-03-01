@@ -25,13 +25,13 @@ Es gibt 5 Arten von Spielsteinen:
 * Attribute: keine.
 * Aufsammeln: mit 2 anderen Superpowersteinen.
 * Resultat: **Superpower** wird wieder aufgefüllt. 
-* Wozu: Der Spieler besitzt eine Reihe von Superfähigkeiten, die eine bestimmte Menge an Superpower benötigen. Verwendet er die Superfähigkeit, wird ihm die Superpower abgezogen. Er bekommt bei jedem Levelaufstieg eine neue Superfähigkeit. Frage: Ist die Maximalanzahl an Fähigkeiten begrenzt? Frage: Was passiert, wenn er die Maximalanzahl überschreitet?
+* Wozu: Der Spieler besitzt eine Reihe von Superfähigkeiten, die eine bestimmte Menge an Superpower benötigen. Verwendet er die Superfähigkeit, wird ihm die Superpower abgezogen. Er bekommt bei jedem Levelaufstieg eine neue Superfähigkeit. *Frage: Ist die Maximalanzahl an Fähigkeiten begrenzt? Frage: Was passiert, wenn er die Maximalanzahl überschreitet?*
 * Wenn voll: Kann er halt alle seine Fähigkeiten verwenden.
 
 ###Monster
 
 * Attribute: Damage Points, Armour Points, Health Points, Rüstung, Waffe
-* Aufsammeln: mit 2 anderen Monstern (Frage: Geht das, gibt es so etwas wie base damage?) bzw. Waffen.
+* Aufsammeln: mit 2 anderen Monstern (*Frage: Geht das, gibt es so etwas wie base damage?*) bzw. Waffen.
 * Resultat: Die Monster verschwinden, sind keine Gefahr mehr, lassen eine Rüstung oder eine Waffe fallen, die der Spieler dann verwenden kann. Rüstung erhöht die Maximalarmour des Spielers. Waffe erweitert das Waffenarsenal des Spielers (nicht Superpower!).
 
 ###Weapon
@@ -48,4 +48,4 @@ Das sind die Waffen, die dem Spieler zur Verfügung stehen, Faustschlag, Fußtri
 * Aufsammeln: mit 2 anderen Healthsteine
 * Resultat: hält den Spieler vom eher unangenehmen Sterben ab.
 
-Frage: Wir haben nichts wie Experiencepunkte, also Punkte die man für getötete Monster erhält. Ist das gut?
+*Frage: Wir haben nichts wie Experiencepunkte, also Punkte die man für getötete Monster erhält. Ist das gut?*
