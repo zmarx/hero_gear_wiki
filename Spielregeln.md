@@ -3,8 +3,6 @@ Der Spieler und der Computer ziehen abwechselnd. Der Spieler sammelt in seiner R
 
 Dann kommt der Computer dran. Alle Monster, die am Bildschirm sind, fügen dem Spieler ihren **Damage Points** gemäß Schaden zu. Diese werden zunächst von den **Armour Points** des Spielers abgezogen. Sinken die **Armour Points** des Spielers auf 0, werden die noch verbleibenden **Damage Points** der Angreifer von der **Health** des Spielers abgezogen.
 
-[[Konzepte]]
-
 ##Spielsteine
 Es gibt 5 Arten von Spielsteinen:
 
